@@ -2,6 +2,13 @@
 
 Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan diupdate lewat sini
 
+### TUGAS SABTU 1
+```markdown
+1. PBO1     => Untuk Tugas Cek Edmodo, Due Date 16 Maret 2020.
+2. FILSAFAT => Tugas Kelompok. Pembagian Kelompok Cek Grub Kelas.
+3. ISBD     => Tugas Kelompok. Cek Grub ISBD untuk Detail.
+```
+
 ### Jadwal Mata Kuliah
 
 ```markdown
@@ -22,12 +29,3 @@ Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan di
 4. SISTEM INFORMASI GEOGRAFIS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Update
-
-Coming Soon!!.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
