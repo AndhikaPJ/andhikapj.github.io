@@ -1,6 +1,7 @@
-## 4B NR Banjarbaru
+## 4B NR BJB
 
-Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan diupdate lewat sini
+Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan diupdate lewat sini.
+[Jadwal Kuliah Klik!](google.com)
 
 ### TUGAS SABTU 1
 ```markdown
