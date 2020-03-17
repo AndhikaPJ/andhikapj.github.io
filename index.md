@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## 4B Non Reg Banjarbaru
 
-You can use the [editor on GitHub](https://github.com/AndhikaPJ/andhikapj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Dokumentasi perkuliahan selama satu semester ini. Insya Allah # ToDo tugas akan diupdate lewat sini
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Jadwal Mata Kuliah
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
