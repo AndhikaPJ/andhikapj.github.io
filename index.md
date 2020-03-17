@@ -1,34 +1,32 @@
-## 4B Non Reg Banjarbaru
+## 4B NR Banjarbaru
 
-Dokumentasi perkuliahan selama satu semester ini. Insya Allah # ToDo tugas akan diupdate lewat sini
+Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan diupdate lewat sini
 
 ### Jadwal Mata Kuliah
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+# Sabtu 1
+1. SISTEM TERDISTRIBUSI
+2. JARINGAN KOMPUTER 2
+3. PEMROGRAMAN VISUAL 2
+4. PEMROGRAMAN BERORIENTASI OBJEK 1
+5. FILSAFAT
+6. ILMU SOSIAL DAN BUDAYA DASAR
+```
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Sabtu 2
+1. PERANCANGAN DATABASE
+2. PEMROGRAMAN WEB 2
+3. TAUHID
+4. SISTEM INFORMASI GEOGRAFIS
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Update
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndhikaPJ/andhikapj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Coming Soon!!.
 
 ### Support or Contact
 
