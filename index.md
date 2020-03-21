@@ -8,6 +8,7 @@ Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan di
 1. PBO1     => Untuk Tugas Cek Edmodo, Due Date 16 Maret 2020.
 2. FILSAFAT => Tugas Kelompok. Pembagian Kelompok Cek Grub Kelas.
 3. ISBD     => Tugas Kelompok. Cek Grub ISBD untuk Detail.
+4. SIG      => Tugas cek di e-learning UNISKA.
 ```
 
 ### Jadwal Mata Kuliah
