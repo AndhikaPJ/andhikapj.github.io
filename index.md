@@ -3,12 +3,12 @@
 Dokumentasi perkuliahan selama satu semester ini. Insya Allah ToDo tugas akan diupdate lewat sini.
 [Jadwal Kuliah Klik!](google.com)
 
-### TUGAS SABTU 1
+### TUGAS
 ```markdown
-1. PBO1     => Untuk Tugas Cek Edmodo, Due Date 16 Maret 2020.
-2. FILSAFAT => Tugas Kelompok. Pembagian Kelompok Cek Grub Kelas.
-3. ISBD     => Tugas Kelompok. Cek Grub ISBD untuk Detail.
-4. SIG      => Tugas cek di e-learning UNISKA.
+1. TAUHID Cek Google Classroom
+2. ISBD buat artikel tentang Covid-19
+3. PBO1 selesaikan course dicoding
+4. 
 ```
 
 ### Jadwal Mata Kuliah
